@@ -1,7 +1,6 @@
 package httpmethods;
 
 import io.restassured.http.ContentType;
-import io.cucumber.java.en.*;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
